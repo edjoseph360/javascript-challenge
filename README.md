@@ -1,3 +1,5 @@
+<h2> https://edjoseph360.github.io/javascript-challenge/ </h3>
+
 # JavaScript Homework - JavaScript and DOM Manipulation
 
 ## Background
